@@ -1,0 +1,7 @@
+ddgs
+crewai
+pydantic
+crewai_tools
+python-dotenv
+langchain_groq
+duckduckgo-search
